@@ -1,0 +1,25 @@
+h1 {
+font-size: 50px;
+color: #0050aa;
+}
+
+#content {
+  background-color: bisque;
+}
+
+
+.username {
+  color: red;
+  font-weight: bold;
+}
+
+.login{
+  margin-bottom: 10px;    
+  margin-top: 20px;
+
+  padding: 10px;
+}
+
+.login:hover  {
+  background-color: red;
+}
